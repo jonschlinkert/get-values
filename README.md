@@ -10,6 +10,12 @@ Install with [npm](https://www.npmjs.com/)
 $ npm i get-values --save
 ```
 
+Install with [bower](http://bower.io/)
+
+```sh
+$ bower install get-values --save
+```
+
 ## Usage
 
 ```js

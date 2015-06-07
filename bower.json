@@ -1,0 +1,28 @@
+{
+  "name": "get-values",
+  "description": "Return an array of all values from the given object.",
+  "repository": "jonschlinkert/get-values",
+  "license": "MIT",
+  "homepage": "https://github.com/jonschlinkert/get-values",
+  "authors": [
+    "Jon Schlinkert (https://github.com/jonschlinkert)"
+  ],
+  "main": [
+    "index.js"
+  ],
+  "dependencies": {
+    "for-own": "^0.1.3"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "keywords": [
+    "array",
+    "for",
+    "for-own",
+    "map",
+    "object",
+    "own",
+    "values"
+  ]
+}
